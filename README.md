@@ -1,4 +1,4 @@
-# SYNO
+# 𝐒𝐘𝐍𝐎
 <p align = 'center'>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYNO-Dev&layout=compact&theme=onedark&hide_border=true"
