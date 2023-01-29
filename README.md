@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syno-sy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="syno-sy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syno-sy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="syno-sy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syno-sy&" alt="syno-sy" /></p>
