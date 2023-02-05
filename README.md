@@ -22,7 +22,7 @@
 <a href="https://twitter.com/gautham_n_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautham_n_vijay" height="30" width="40" /></a>
 <a href="https://instagram.com/gautham_n_vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautham_n_vijay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/syno6566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syno6566" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/wDqBYaN54n" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/985836887644201040/1071706514009641020/discord-mark-blue.png" alt="https://discord.gg/wDqBYaN54n" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/wDqBYaN54n" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/985836887644201040/1071706514009641020/discord-mark-blue.png" alt="https://discord.gg/wDqBYaN54n" height="25" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
