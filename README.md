@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syno-sy&label=Profile%20views&color=0e75b6&style=flat" alt="syno-sy" /> </p>
 
-<p align="left" gap="3px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syno-sy" alt="syno-sy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syno-sy" alt="syno-sy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gautham_n_vijay" target="blank"><img src="https://img.shields.io/twitter/follow/gautham_n_vijay?logo=twitter&style=for-the-badge" alt="gautham_n_vijay" /></a> </p>
 
